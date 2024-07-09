@@ -1,0 +1,46 @@
+.form-control.ng-touched.ng-invalid{
+border: 2px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+/*
+.text-red{
+    color:red;
+}
+.text-center-a{
+    text-align: center;
+    font-size:20px;
+    align-items: center;
+    font-weight: bold;
+
+}
+.text-center-b{
+    text-align: center;
+    font-size:20px;
+    align-items: center;
+
+}
+.text-center{
+    text-align: center;
+
+}
+
+::placeholder {
+    color: rgb(0, 0, 0);
+  }
+
+  .background{
+    display: inline-flex; 
+
+    background-color:yellow;
+  }
+ 
+  */
